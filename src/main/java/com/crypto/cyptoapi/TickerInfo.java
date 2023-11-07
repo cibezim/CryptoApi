@@ -21,3 +21,4 @@ public class TickerInfo {
         this.ticker = ticker;
     }
 }
+

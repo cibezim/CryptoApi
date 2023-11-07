@@ -29,3 +29,5 @@ public class Ticker {
         this.bid = bid;
     }
 }
+
+
